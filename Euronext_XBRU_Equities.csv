@@ -1,4 +1,4 @@
-Name;ISIN;Symbol;Market;"Trading Currency";Open;High;Low;Last;"Last Date/Time";"Time Zone";Volume;Turnover
+Name;ISIN;Symbol;Market;'Trading Currency';Open;High;Low;Last;'Last Date/Time';'Time Zone';Volume;Turnover
 "AB INBEV";BE0974293251;ABI;"Euronext Brussels";EUR;87.11;87.72;86.66;87.04;27/09/19;CET;1024089;89115019.89
 ABATTOIR;BE0946377455;-;"Euronext Expert Market";EUR;47.7;47.7;47.7;47.7;24/01/17;CET;500;23850
 "ABO GROUP";BE0974278104;ABO;"Euronext Brussels";EUR;2.3;2.3;2.12;2.12;27/09/19;CET;1156;2564.66
